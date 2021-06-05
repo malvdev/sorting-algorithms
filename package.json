@@ -1,0 +1,20 @@
+{
+  "name": "sorting-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier --write \"**/*.{js,json,md,ts,tsx}\"",
+    "prettier:check": "prettier --list-different \"**/*.{js,json,md,ts,tsx}\"",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "eslint": "^7.27.0",
+    "husky": "^6.0.0",
+    "jest": "^27.0.4",
+    "prettier": "^2.3.0"
+  }
+}
