@@ -1,7 +1,7 @@
 /**
- * Worst Case   Θ(n^2)
+ * Worst Case   O(n^2)
  * Average Case Θ(n^2)
- * Best Case    Ω(n)
+ * Best Case    O(n)
  */
 function insertionSort(array) {
   for (let i = 1; i < array.length; i++) {
