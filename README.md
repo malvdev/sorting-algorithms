@@ -1,1 +1,3 @@
 # Sorting algorithms
+
+- Insertion sort
