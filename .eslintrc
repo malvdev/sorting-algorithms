@@ -1,14 +1,16 @@
 {
+  "root": true,
+  "extends": "airbnb",
+  "plugins": ["jest"],
   "env": {
-    "es6": true
+    "jest/globals": true
   },
   "rules": {
-    "no-var": "error",
-    "semi": "error",
-    "no-multi-spaces": "error",
-    "space-in-parens": "error",
-    "no-multiple-empty-lines": "error",
-    "prefer-const": "error",
-    "no-use-before-define": "error"
+    "no-bitwise": "off",
+    "no-lonely-if": "off",
+    "class-methods-use-this": "off",
+    "arrow-body-style": "off",
+    "no-loop-func": "off",
+    "no-param-reassign": "off"
   }
 }
