@@ -1,15 +1,4 @@
 # Sorting algorithms
 
-- Insertion sort
-- Bubble sort
-
-Перемешиванием
-Расческой
-Выбором
-Быстрая
-Слиянием
-Пиромидальная
-Гномья
-С помщью двоичного
-Шелла
-Плавная
+- [Insertion sort](./src/bubble-sort/README.md)
+- [Bubble sort](./src/insertion-sort/README.md)
