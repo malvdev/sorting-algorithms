@@ -5,3 +5,4 @@
 - [Shaker sort](./src/shaker-sort)
 - [Comb sort](./src/comb-sort)
 - [Selection sort](./src/selection-sort)
+- [Quick sort](./src/quick-sort)
