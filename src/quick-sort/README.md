@@ -6,6 +6,6 @@
 
 ## Complexity
 
-| Best |    Average    |     Worst     | Memory |
-| :--: | :-----------: | :-----------: | :----: |
-|  n log(n)   | n log(n) | n<sup>2</sup> |   log(n)    |
+|   Best   | Average  |     Worst     | Memory |
+| :------: | :------: | :-----------: | :----: |
+| n log(n) | n log(n) | n<sup>2</sup> | log(n) |

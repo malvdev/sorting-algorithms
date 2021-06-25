@@ -6,6 +6,6 @@
 
 ## Complexity
 
-| Best |    Average    |     Worst     | Memory |
-| :--: | :-----------: | :-----------: | :----: |
-|  n<sup>2</sup>   | n<sup>2</sup> | n<sup>2</sup> |   1    |
+|     Best      |    Average    |     Worst     | Memory |
+| :-----------: | :-----------: | :-----------: | :----: |
+| n<sup>2</sup> | n<sup>2</sup> | n<sup>2</sup> |   1    |
