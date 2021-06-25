@@ -8,5 +8,9 @@ export const reverseArr = [
   20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1,
 ];
 
+export const arrSmall = [6, 15, 5, 8, 10, 1];
+export const arrSmallSorted = [1, 5, 6, 8, 10, 15];
+export const reverseArrSmall = [15, 10, 8, 6, 5, 1];
+
 export const negativeArr = [-15, -1, 5, 2, 20, -8, 0, 4, -5, 18];
 export const negativeArrSorted = [-15, -8, -5, -1, 0, 2, 4, 5, 18, 20];
