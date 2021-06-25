@@ -6,3 +6,4 @@
 - [Comb sort](./src/comb-sort)
 - [Selection sort](./src/selection-sort)
 - [Quick sort](./src/quick-sort)
+- [Gnome sort](./src/gnome-sort)
