@@ -7,3 +7,4 @@
 - [Selection sort](./src/selection-sort)
 - [Quick sort](./src/quick-sort)
 - [Gnome sort](./src/gnome-sort)
+- [Merge sort](./src/merge-sort)
