@@ -7,6 +7,7 @@
 - [Gnome sort](./src/gnome-sort)
 - [Insertion sort](./src/insertion-sort)
 - [Merge sort](./src/merge-sort)
+- [Pancake sort](./src/pancake-sort)
 - [Quick sort](./src/quick-sort)
 - [Selection sort](./src/selection-sort)
 - [Shaker sort](./src/shaker-sort)
