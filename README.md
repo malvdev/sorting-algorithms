@@ -12,3 +12,4 @@
 - [Selection sort](./src/selection-sort)
 - [Shaker sort](./src/shaker-sort)
 - [Shell sort](./src/shell-sort)
+- [Stooge sort](./src/stooge-sort)
