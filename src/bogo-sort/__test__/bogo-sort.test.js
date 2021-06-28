@@ -1,5 +1,5 @@
 import bogoSort from '../bogo-sort';
-import { arrSmall, arrSmallSorted, reverseArrSmall } from '../../sortTester';
+import { arrSmall, arrSmallSorted, reverseArrSmall } from '../../sort-tester';
 
 describe('Bogo sort', () => {
   test('should sort array', () => {

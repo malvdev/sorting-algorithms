@@ -5,7 +5,7 @@ import {
   negativeArr,
   negativeArrSorted,
   reverseArr,
-} from '../../sortTester';
+} from '../../sort-tester';
 
 describe('Bubble sort', () => {
   test('should sort array', () => {
