@@ -2,7 +2,11 @@
   "name": "sorting-algorithms",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": [
+    "algorithms",
+    "javascript",
+    "sorting-algorithms"
+  ],
   "license": "MIT",
   "scripts": {
     "lint": "eslint ./src/**.{js,jsx,ts,tsx}",
