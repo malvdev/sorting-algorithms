@@ -2,6 +2,7 @@
 
 - [Bogo sort](./src/bogo-sort)
 - [Bubble sort](./src/bubble-sort)
+- [Bucket sort](./src/bucket-sort)
 - [Comb sort](./src/comb-sort)
 - [Counting sort](./src/counting-sort)
 - [Gnome sort](./src/gnome-sort)
