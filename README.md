@@ -1,5 +1,28 @@
 # Sorting algorithms
 
+<blockquote>
+  Sorting algorithms in javaScript.
+</blockquote>
+
+## Contents
+
+- [Motivation](#Motivation)
+- [Installation](#Installation)
+- [Algorithms](#Algorithms)
+
+## Motivation
+
+I wanted to learn how different `sorting algorithms` work and how to implement them.
+
+## Installation
+
+1. Have [Node.js](https://nodejs.org/en/) installed.
+1. Clone the project.
+1. Go to the project's folder and run `npm install` to install dependencies.
+1. Run `npm run test` to start the tests.
+
+## Algorithms
+
 - [Bogo sort](./src/bogo-sort)
 - [Bubble sort](./src/bubble-sort)
 - [Bucket sort](./src/bucket-sort)
