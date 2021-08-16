@@ -9,6 +9,7 @@
   ],
   "license": "MIT",
   "scripts": {
+    "postinstall": "npm run prepare",
     "lint": "eslint ./src/**.{js,jsx,ts,tsx}",
     "coverage": "npm run test -- --coverage",
     "ci": "npm run lint && npm run coverage",
